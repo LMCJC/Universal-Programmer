@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<database>
+    <Arduino_Nano>ATmega328P</Arduino_Nano>
+	<Arduino_Uno>ATmega328P</Arduino_Uno>
+	<Arduino_Mega>ATmega2560</Arduino_Mega>
+	<projectlist>
+		<Signaldecoder>
+			<hardware>
+				<name>ATmega328P</name>
+				<version>2.5 public beta</version>
+			</hardware>
+			<name>Licht-Signaldecoder</name>
+			<description>Ansteuerung der Lichtsignale mit DCC Adressen</description>
+		</Signaldecoder>
+		<Lights_Control>
+			<hardware>
+				<name>ATmega328P</name>
+				<version>1.0.3-HA</version>
+				<version>1.0.3-LA</version>
+			</hardware>
+			<name>RunFlashLight-Control</name>
+			<description>zum Einsatz als Blinklicht und Lauflicht</description>
+		</Lights_Control>
+	</projectlist>
+</database>
