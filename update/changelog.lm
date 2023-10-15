@@ -1,13 +1,3 @@
-1.0.0.4:/
-ADD atmega2560 RFL support/
--> show Arduino Programmer/
---------/
-1.0.0.3:/
-FIX lost settings after update/
-MOD updater/
-ADD updater language/
---------/
-1.0.0.2:/
-MOD text colors/
-FIX updater buttons/
-MOD runlight live preview/
+1.0.0.4:/ADD atmega2560 RFL support/-> show Arduino Programmer/--------/
+1.0.0.3:/FIX lost settings after update/MOD updater/ADD updater language/--------/
+1.0.0.2:/MOD text colors/FIX updater buttons/MOD runlight live preview/--------/
