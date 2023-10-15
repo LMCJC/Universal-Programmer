@@ -20,6 +20,11 @@
 				<version>1.0.3-HA</version>
 				<version>1.0.3-LA</version>
 			</hardware>
+			<hardware>
+				<name>ATmega2560</name>
+				<version>1.0.4-HA</version>
+				<version>1.0.4-LA</version>
+			</hardware>
 			<name>RunFlashLight-Control</name>
 			<description>zum Einsatz als Blinklicht und Lauflicht</description>
 		</Lights_Control>
