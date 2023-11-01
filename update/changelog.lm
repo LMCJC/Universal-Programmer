@@ -1,3 +1,6 @@
-1.0.0.4:/ADD atmega2560 RFL support/-> show Arduino Programmer/--------/
-1.0.0.3:/FIX lost settings after update/MOD updater/ADD updater language/--------/
-1.0.0.2:/MOD text colors/FIX updater buttons/MOD runlight live preview/--------/
+1.0.0.7:/ADD Servo Live Mode function/ADD atmega328p ServoIO support/ADD ServoIO 1.0.1/FIX SPI transmit problems/-> betaversion/
+1.0.0.6:/MOD SPI GUI colors/MOD Servo Tool/-> no release/
+1.0.0.5:/MOD CAN GUI/MOD Servo Tool/ADD Servo IO to SPI connection/-> no release/
+1.0.0.4:/ADD atmega2560 RFL support/-> show Arduino Programmer/
+1.0.0.3:/FIX lost settings after update/MOD updater/ADD updater language/
+1.0.0.2:/MOD text colors/FIX updater buttons/MOD runlight live preview/

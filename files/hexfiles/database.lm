@@ -28,5 +28,13 @@
 			<name>RunFlashLight-Control</name>
 			<description>zum Einsatz als Blinklicht und Lauflicht</description>
 		</Lights_Control>
+		<Servo_Control>
+			<hardware>
+				<name>ATmega328P</name>
+				<version>1.0.1</version>
+			</hardware>
+			<name>Servo-Control-IO</name>
+			<description>Ansteuerung Servomotoren mit IO Pins</description>
+		</Servo_Control>
 	</projectlist>
 </database>
