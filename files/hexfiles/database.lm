@@ -31,7 +31,7 @@
 		<Servo_Control>
 			<hardware>
 				<name>ATmega328P</name>
-				<version>1.0.1</version>
+				<version>1.0.2</version>
 			</hardware>
 			<name>Servo-Control-IO</name>
 			<description>Ansteuerung Servomotoren mit IO Pins</description>
