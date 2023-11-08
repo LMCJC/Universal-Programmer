@@ -10,6 +10,7 @@
 				<version>2.5 public beta</version>
 				<version>PROG-2.5 public beta</version>
 				<version>2.5 beta2</version>
+				<version>2.6.0</version>
 			</hardware>
 			<name>Licht-Signaldecoder</name>
 			<description>Ansteuerung der Lichtsignale mit DCC Adressen</description>

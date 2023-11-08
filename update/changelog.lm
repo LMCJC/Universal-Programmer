@@ -1,3 +1,4 @@
+1.0.0.9:/FIX return to connections (no way to come back)/MOD Arduino Uploader auto update database (with internet connection)/MOD Licht-Signaldecoder to 2.6.0/ => adress up to 1020/FIX read hardware with Licht-Signaldecoder/MOD GUI update/
 1.0.0.8:/ADD Update options/MOD Servo-Control-IO to 1.0.2/FIX Servo-Control-IO read hardware/FIX Servo IO save settings/MOD GUI fixes/
 1.0.0.7:/ADD Servo Live Mode function/ADD atmega328p Servo-Control-IO support/ADD Servo-Control-IO 1.0.1/FIX SPI transmit problems/-> betaversion/
 1.0.0.6:/MOD SPI GUI colors/MOD Servo Tool/-> no release/
