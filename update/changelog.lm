@@ -1,3 +1,4 @@
+1.0.1.2:/FIX CAN search device bug/FIX program not started (or only as admin)/ADD CAN MB_CAN: MB_Servo to Servo Tool/ADD MB_Servo Live Mode/ADD MB_Servo reset hardware/MOD window dock with doubleclick (via titlebar)/=> if problems with activation, please contact me/
 1.0.1.1:/MOD license terms/MOD 100s version is changed to free version/ => unlimited time/ => free version with limited functions/ADD about-info window/
 1.0.1.0:/ADD sound effects/MOD smoother Pop-Up dialog/FIX Bug in RFL load config/ => only if config missing/
 1.0.0.9:/FIX return to connections (no way to come back)/MOD Arduino Uploader auto update database (with internet)/MOD Licht-Signaldecoder to 2.6.0/ => adress up to 1020/FIX read hardware with Licht-Signaldecoder/MOD GUI update/
