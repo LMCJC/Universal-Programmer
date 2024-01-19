@@ -1,3 +1,4 @@
+1.0.1.3:/ADD Notification menue window/ADD DCC-Servodecoder with 1.0.0/FIX SPI Servo Tool register numbers/MOD code optimization/ADD SPI connect HW,SW error info/FIX CAN MB_Servo: Live Mode/FIX SPI con. port bug/
 1.0.1.2:/FIX CAN search device bug/FIX program not started (or only as admin)/ADD CAN MB_CAN: MB_Servo to Servo Tool/ADD MB_Servo Live Mode/ADD MB_Servo reset hardware/MOD window dock with doubleclick (via titlebar)/=> if problems with activation, please contact me/
 1.0.1.1:/MOD license terms/MOD 100s version is changed to free version/ => unlimited time/ => free version with limited functions/ADD about-info window/
 1.0.1.0:/ADD sound effects/MOD smoother Pop-Up dialog/FIX Bug in RFL load config/ => only if config missing/
