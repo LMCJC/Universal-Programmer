@@ -1,3 +1,4 @@
+1.0.1.4:/MOD Notification menue color/MOD new Tool settings save & load via json file/MOD main settings use json file format/ => ! old settings will be lose after update !/MOD MB_Servo data upload and download works/FIX CAN receive message problems/MOD add multiple servos with one -add- action/MOD auto hide notification menue/
 1.0.1.3:/ADD Notification menue window/ADD DCC-Servodecoder with 1.0.0/FIX SPI Servo Tool register numbers/MOD code optimization/ADD SPI connect HW,SW error info/FIX CAN MB_Servo: Live Mode/FIX SPI con. port bug/
 1.0.1.2:/FIX CAN search device bug/FIX program not started (or only as admin)/ADD CAN MB_CAN: MB_Servo to Servo Tool/ADD MB_Servo Live Mode/ADD MB_Servo reset hardware/MOD window dock with doubleclick (via titlebar)/=> if problems with activation, please contact me/
 1.0.1.1:/MOD license terms/MOD 100s version is changed to free version/ => unlimited time/ => free version with limited functions/ADD about-info window/
