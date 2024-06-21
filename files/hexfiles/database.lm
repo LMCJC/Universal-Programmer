@@ -2,6 +2,7 @@
 <database>
     <Arduino_Nano>ATmega328P</Arduino_Nano>
 	<Arduino_Uno>ATmega328P</Arduino_Uno>
+	<Nano_Every>ATmega4809</Nano_Every>
 	<Arduino_Mega>ATmega2560</Arduino_Mega>
 	<projectlist>
 		<Signaldecoder>
@@ -10,6 +11,10 @@
 				<version>2.5 public beta</version>
 				<version>PROG-2.5 public beta</version>
 				<version>2.5 beta2</version>
+				<version>2.6.0</version>
+			</hardware>
+			<hardware>
+				<name>ATmega4809</name>
 				<version>2.6.0</version>
 			</hardware>
 			<name>Licht-Signaldecoder</name>
