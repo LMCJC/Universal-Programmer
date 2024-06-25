@@ -1,4 +1,5 @@
-1.0.20.0:/betaversion! 1.0.2.00/ADD Nano Every (atmega4809) to Arduino Programmer/ADD Licht-Signaldecoder 2.6.0 for atmega4809/ => compatibility not verified/
+1.0.21.0:/betaversion!/MOD upload cmd for atmega4809/ => compatibility not verified/
+1.0.20.0:/betaversion!/ADD Nano Every (atmega4809) to Arduino Programmer/ADD Licht-Signaldecoder 2.6.0 for atmega4809/ => compatibility not verified/
 1.0.1.9:/MOD SPI servo live mode optimization/MOD show error if file download incomplete/
 1.0.1.8:/FIX Arduino Programmer: Upload Button (issues 3)/FIX SPI Servo config live mode data error/
 1.0.1.7:/MOD export to Rocrail: select level/ADD atmega328p: LocoNet Feedback(Detector) 1.0.0/ADD Feedback configure GUI/MOD code optimization/ADD atmega328p: Arduino Pin 13 to output selection/MOD Arduino Programmer: use avrdude immediately/FIX Arduino Programmer: loop at failed upload/
