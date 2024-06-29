@@ -1,3 +1,4 @@
+1.0.2.0:/License terms changed!/FIX update to next release (issues 4)/ADD Personal Support messenger/ => for questions, ideas, issues.../MOD no hardware reset required/ => managed by software/-No release of beta functions-/
 1.0.22.0:/betaversion!/MOD upload cmd (addition) for atmega4809/ => compatibility not verified/
 1.0.21.0:/betaversion!/MOD upload cmd for atmega4809/ => compatibility not verified/
 1.0.20.0:/betaversion!/ADD Nano Every (atmega4809) to Arduino Programmer/ADD Licht-Signaldecoder 2.6.0 for atmega4809/ => compatibility not verified/
