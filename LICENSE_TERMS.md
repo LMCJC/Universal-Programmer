@@ -22,6 +22,6 @@
 6. | Liability: No liability is assumed for the use of the software.
 7. | Cancellation after use of the software is not required, no ongoing costs are charged.
 8. | Adaptation of the software: The software can be updated to new adaptations through software updates. It is possible that a customization may change the functionality and application.
-9. | The release of the source code is not owed.\
+9. | The release of the source code is not owed.
 10. | An internet connection is required for online activation and use of some functions.
 11. | License conditions of third-party providers: MIT (licenses.nuget.org/MIT), GPL-2.0 (avrdudes.github.io)
