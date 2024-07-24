@@ -46,6 +46,7 @@
 			<hardware>
 				<name>ATmega328P</name>
 				<version>1.0.0</version>
+				<version>1.0.1</version>
 			</hardware>
 			<name>Servodecoder</name>
 			<description>Ansteuerung 6x Servo mit DCC Adressen</description>

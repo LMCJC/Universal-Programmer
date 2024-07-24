@@ -31,5 +31,5 @@ To run the application you need .NET Framework 6.0 runtime
 | Version | Download                |
 | :-------- | :------------------------- |
 | `latest` `release` | https://github.com/LMCJC/Universal-Programmer/raw/main/release/latest.zip |
-| `x64` | https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.20-windows-x64-installer |
-| `x86` | https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.20-windows-x86-installer |
+| `x64` | https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.32-windows-x64-installer |
+| `x86` | https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.32-windows-x86-installer |

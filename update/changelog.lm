@@ -1,3 +1,4 @@
+1.0.2.1:/MOD transmit data show result OK or FAIL/some small bug fixes/ADD Servodecoder V. 1.0.1 for atmega328p/ => FIX Servo init/ => FIX K84 mode/ => FIX position control/not all beta changes released!/
 1.0.2.10:/betaversion!/version NOT recommended FOR PRODUCTION !/MOD Personal Support chat design/MOD SPI connection to atmega4809/ => retry with different settings/ => compatibility not verified/WARNING: auto send connection report!/
 1.0.2.0:/License terms changed!/FIX update to next release (issues 4)/ADD Personal Support messenger/ => for questions, ideas, issues.../MOD no hardware reset required/ => managed by software/-No release of beta functions-/
 1.0.22.0:/betaversion!/MOD upload cmd (addition) for atmega4809/ => compatibility not verified/
