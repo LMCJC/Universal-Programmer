@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <database>
-    <Arduino_Nano>ATmega328P</Arduino_Nano>
+	<Arduino_Nano>ATmega328P</Arduino_Nano>
 	<Arduino_Uno>ATmega328P</Arduino_Uno>
 	<Nano_Every>ATmega4809</Nano_Every>
 	<Arduino_Mega>ATmega2560</Arduino_Mega>
@@ -45,7 +45,6 @@
 		<Servodecoder>
 			<hardware>
 				<name>ATmega328P</name>
-				<version>1.0.0</version>
 				<version>1.0.1</version>
 			</hardware>
 			<name>Servodecoder</name>
@@ -54,10 +53,11 @@
 		<LocoNet_Feedback>
 			<hardware>
 				<name>ATmega328P</name>
-				<version>1.0.0</version>
+				<version>1.0.1</version>
 			</hardware>
 			<name>LocoNet Feedback</name>
 			<description>Rückmeldemodul mit LocoNet Bus an Pin 7,8</description>
 		</LocoNet_Feedback>
 	</projectlist>
+	<BASE_ID>0</BASE_ID>
 </database>

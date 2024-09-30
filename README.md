@@ -9,6 +9,7 @@ This software is actually compatible to the following hardware:
 | `Arduino Nano atmega328p` |
 | `Arduino Uno atmega328p` |
 | `Arduino Mega atmega2560` |
+| `Arduino Nano Every atmega4809` |
 
 Please note: for any hardware you need more electronics to use this fully with the software (see documentation)\
 user manual: https://drive.google.com/file/d/17PNFl44WY-SDedSeV-k9Ff4tLWkQUlAu/view \

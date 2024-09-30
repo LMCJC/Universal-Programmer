@@ -1,3 +1,4 @@
+1.0.2.3:/ADD remember interface option/MOD minimal GUI improvements/FIX LocoNet Detector read input value/UPDATE atmega328p: LocoNet Detector to 1.0.1/ADD atmega4809: Licht-Signaldecoder 2.6.0/ => upload and connection verified/
 1.0.2.2:/FIX Support Chat: create new chat if missing/MOD minimal optimization/ADD Licht-Signaldecoder: do not use green output option (issues 5)/
 1.0.2.1:/MOD transmit data show result OK or FAIL/some small bug fixes/ADD Servodecoder V. 1.0.1 for atmega328p/ => FIX Servo init/ => FIX K84 mode/ => FIX position control/not all beta changes released!/
 1.0.2.10:/betaversion!/version NOT recommended FOR PRODUCTION !/MOD Personal Support chat design/MOD SPI connection to atmega4809/ => retry with different settings/ => compatibility not verified/WARNING: auto send connection report!/
