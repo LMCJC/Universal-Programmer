@@ -1,3 +1,4 @@
+1.0.2.5:/small bugs fixed/ADD lang translation/MOD Arduino Programmer: optimize error info/MOD prepare Updater to Net8 version/ => last update with Net6!/ => upgrade possible with this version/
 1.0.2.4:/Arduino Upload Center:/ -FIX update software archiv/
 1.0.2.3:/ADD remember interface option/MOD minimal GUI improvements/FIX LocoNet Detector read input value/UPDATE atmega328p: LocoNet Detector to 1.0.1/ADD atmega4809: Licht-Signaldecoder 2.6.0/ => upload and connection verified/
 1.0.2.2:/FIX Support Chat: create new chat if missing/MOD minimal optimization/ADD Licht-Signaldecoder: do not use green output option (issues 5)/
