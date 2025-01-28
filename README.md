@@ -50,6 +50,8 @@ Start **LMCJC UP-Setup.exe** in the extract path.
 If setup is finished you find the **LMCJC Programmer.exe** inside the application folder.
 
 #### Linux Debian / MacOS
+##### Installation (YouTube video) instructions for Linux
+[![Installation Tutorial](https://img.youtube.com/vi/QSoDDwdtRv8/0.jpg)](https://www.youtube.com/watch?v=QSoDDwdtRv8)<br>
 ##### Setup
 To run the application, you must start the start script from the **Scripts** folder.<br>
 Make it executable and start the script in the terminal.<br>
@@ -67,9 +69,14 @@ chmod +x macos_start.sh
 ##### Run application
 If setup is finished, you find the **StartScripts** folder inside the application folder.<br>
 Start the script in the terminal.<br>
-In **StartScripts** folder:
+In **StartScripts** folder:<br>
+Linux Debian:
 ```
 ./debian_start.sh
+```
+MacOS:
+```
+./macos_start.sh
 ```
 or drag the .sh file into the terminal and press enter.
 <br>

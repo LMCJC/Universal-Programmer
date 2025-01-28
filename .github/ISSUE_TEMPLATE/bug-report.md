@@ -30,7 +30,7 @@ Screenshoot:
 
 
 **Desktop (please complete the following information):**
- - OS: [e.g. Win 7/Win 10/Win11?] -> 
+ - OS: [e.g. Win10/Win11/Linux xx/MacOS xx?] -> 
  - Programmer Version [e.g. 1.0.9.5, see title bar] -> 
 
 **Additional context**
