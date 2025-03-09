@@ -1,3 +1,4 @@
+1.0.2.9:/small fixes and improvements/FIX support chat: connection problems/MOD packages updated/MOD support chat: max text lenght/ADD support chat: export to txt/FIX export rocrail:/-> window did not show up/
 1.0.2.8:/FIX configure signals: ignore output option hidden/FIX configure servo: gui size issues/MOD configure servo: live test experience/MOD optimize activation process/=> activate again after update!/=> no downgrade possible from this version!/
 1.0.2.7:/FIX Live Mode button text (issues 8)/FIX Mac,Linux add port manual value/ADD Welcomescreen: open hardware documents button/FIX add sensor - modul number empty/ADD some language text/
 1.0.2.6:/MOD some improvements and bug fixes/License terms changed!/UPGRADE to Net8 runtime/-> Installation required/INIT Linux OS support/INIT MacOS support/

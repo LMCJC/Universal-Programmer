@@ -20,14 +20,15 @@ user manual: https://drive.google.com/file/d/17PNFl44WY-SDedSeV-k9Ff4tLWkQUlAu/v
 In case of software updates and changes, some content from user manual may differ to the latest available version.
 
 You can use the program for free (free version) (since release 1.0.1.1 or higher).<br>
-If you would like to unlock all functions without limits (full version), you need a license key.
+If you would like to unlock all functions without limits (full version), you need a license key.<br>
+Please note that you use the latest release version for activation.
 
 feature | free version | full version |
 |-|-|-|
 Arduino Programmer | yes | yes |
 Integrated program update function | no | yes |
-tool objects limits | max. 1 (e.g. 1 signal) | limited to software on hardware |
-read out hardware | no | yes (if supported from software on hardware) |
+Tool objects limits | max. 1 (e.g. 1 signal or 2 sensors) | limited to software on hardware |
+Read out hardware | no | yes (if supported from software on hardware) |
 
 ## Installation
 ### .NET8 version (Windows, Linux, MacOS)
@@ -87,6 +88,6 @@ You only need to download the latest .zip file and extract into your favourite f
 To run the application you need .NET Framework 6.0 runtime
 | Version | Download |
 |-|-|
-| `latest` `release` | https://github.com/LMCJC/Universal-Programmer/raw/main/release/latest.zip |
-| `x64` | https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.32-windows-x64-installer |
-| `x86` | https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.32-windows-x86-installer |
+| `latest` `release` | ~~https://github.com/LMCJC/Universal-Programmer/raw/main/release/latest.zip~~ |
+| `x64` | ~~https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.32-windows-x64-installer~~ |
+| `x86` | ~~https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.32-windows-x86-installer~~ |
