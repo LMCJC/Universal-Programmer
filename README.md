@@ -4,19 +4,18 @@ for SPI and CAN communication between pc and hardware.
 
 This software is actually compatible to the following hardware:
 
-| Hardware List |
-|-|
-| `Arduino Nano atmega328p` |
-| `Arduino Uno atmega328p` |
-| `Arduino Mega atmega2560` |
-| `Arduino Nano Every atmega4809` |
+| Hardware List | Project List (with latest release) |
+|-|-|
+| `Arduino Nano atmega328p`<br>`Arduino Uno atmega328p` | DCC Licht-Signaldecoder, DCC Servodecoder, Servo-Control-IO,<br>LocoNet(R) Feedback, RunFlashLight-Control |
+| `Arduino Mega atmega2560` | RunFlashLight-Control |
+| `Arduino Nano Every atmega4809` | DCC Licht-Signaldecoder |
 
 #### Driver information
 To use the hardware with this software you need a virtual com port driver (for Windows OS you can use CH340). Otherwise the device cannot be found.
 
 #### Hardware & Software information
 Please note: for any hardware you need more electronics to use this fully with the software (see documentation)<br>
-user manual: https://drive.google.com/file/d/17PNFl44WY-SDedSeV-k9Ff4tLWkQUlAu/view <br>
+user manual: https://e.pcloud.link/publink/show?code=XZ1PeUZyk0BEzXyK6Vph37g8wQ1pHxeox4k <br>
 In case of software updates and changes, some content from user manual may differ to the latest available version.
 
 You can use the program for free (free version) (since release 1.0.1.1 or higher).<br>
@@ -29,6 +28,7 @@ Arduino Programmer | yes | yes |
 Integrated program update function | no | yes |
 Tool objects limits | max. 1 (e.g. 1 signal or 2 sensors) | limited to software on hardware |
 Read out hardware | no | yes (if supported from software on hardware) |
+Personal Support Chat | yes | yes |
 
 ## Installation
 ### .NET8 version (Windows, Linux, MacOS)
@@ -43,7 +43,7 @@ After that, follow the steps for your operating system bellow.
 To run the application you need .NET Framework 8.0 runtime
 | Description | Download |
 |-|-|
-| `x64` `runtime` | https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.11-windows-x64-installer|
+| `x64` `runtime` | https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.20-windows-x64-installer|
 
 ##### Setup
 Start **LMCJC UP-Setup.exe** in the extract path.
@@ -75,6 +75,8 @@ Linux Debian:
 ```
 ./debian_start.sh
 ```
+*Once gnome-terminal is installed, you can run the application via the starter link **LMCJC Programmer Linux** in the program folder!*<br>
+<br>
 MacOS:
 ```
 ./macos_start.sh
