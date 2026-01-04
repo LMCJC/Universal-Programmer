@@ -2,6 +2,8 @@
 
 für SPI- und CAN-Kommunikation zwischen PC und Hardware. Für deine eigenen Modellbahn Projekte!
 
+`english manual`: https://github.com/LMCJC/Universal-Programmer/blob/main/README-en.md
+
 Diese Software ist derzeit mit folgender Hardware kompatibel:
 
 | Hardware-Liste                        | Projekt-Liste (mit neuester Version)                      |
@@ -33,7 +35,7 @@ Bitte beachte, dass die neueste Versionsnummer für die Aktivierung verwendet wi
 ## Installation
 ### .NET8-Version (Windows, Linux, MacOS)
 ---
-Einfach die Setup_8.zip herunterladen und in den gewünschten Ordner extrahieren.<br>
+Lade die Setup_8.zip herunter und extrahiere (entpacken) die Datei in den gewünschten Ordner.<br>
 Die weiteren Schritte sind unten für jedes Betriebssystem erläutert.
 | Beschreibung                          | Download                                                   |
 |---------------------------------------|----------------------------------------------------------|
@@ -78,6 +80,7 @@ Linux Debian:
 ```
 <br>
 MacOS:
+
 ```
 ./macos_start.sh
 ```

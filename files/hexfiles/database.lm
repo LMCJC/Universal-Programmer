@@ -12,6 +12,7 @@
 				<version>PROG-2.5 public beta</version>
 				<version>2.5 beta2</version>
 				<version>2.6.0</version>
+				<version>2.6.1</version>
 			</hardware>
 			<hardware>
 				<name>ATmega4809</name>
@@ -19,6 +20,8 @@
 			</hardware>
 			<name>Licht-Signaldecoder</name>
 			<description>Ansteuerung der Lichtsignale mit DCC Adressen</description>
+			<description_de>Ansteuerung der Lichtsignale mit DCC Adressen</description_de>
+			<description_en>Control of light signals with DCC addresses</description_en>
 		</Signaldecoder>
 		<Lights_Control>
 			<hardware>
@@ -33,6 +36,8 @@
 			</hardware>
 			<name>RunFlashLight-Control</name>
 			<description>zum Einsatz als Blinklicht und Lauflicht</description>
+			<description_de>zum Einsatz als Blinklicht und Lauflicht</description_de>
+			<description_en>Use as flashing light and running light</description_en>
 		</Lights_Control>
 		<Servo_Control_IO>
 			<hardware>
@@ -41,6 +46,8 @@
 			</hardware>
 			<name>Servo-Control-IO</name>
 			<description>Ansteuerung Servomotoren mit IO Pins</description>
+			<description_de>Ansteuerung Servomotoren mit IO Pins</description_de>
+			<description_en>Control servo motors with IO pins</description_en>
 		</Servo_Control_IO>
 		<Servodecoder>
 			<hardware>
@@ -49,6 +56,8 @@
 			</hardware>
 			<name>Servodecoder</name>
 			<description>Ansteuerung 6x Servo mit DCC Adressen</description>
+			<description_de>Ansteuerung 6x Servo mit DCC Adressen</description_de>
+			<description_en>Control 6x servo motors with DCC addresses</description_en>
 		</Servodecoder>
 		<LocoNet_Feedback>
 			<hardware>
@@ -57,6 +66,8 @@
 			</hardware>
 			<name>LocoNet Feedback</name>
 			<description>Rückmeldemodul mit LocoNet Bus an Pin 7,8</description>
+			<description_de>Rückmeldemodul mit LocoNet Bus an Pin 7,8</description_de>
+			<description_en>Feedback modul via LocoNet at pin 7 and 8</description_en>
 		</LocoNet_Feedback>
 	</projectlist>
 	<BASE_ID>0</BASE_ID>
