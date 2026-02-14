@@ -21,14 +21,14 @@ Benutzerhandbuch: https://e.pcloud.link/publink/show?code=XZ1PeUZyk0BEzXyK6Vph37
 Bei Software-Updates und Änderungen kann der Inhalt des Benutzerhandbuchs von der neuesten verfügbaren Version abweichen.
 
 Das Programm kann kostenlos genutzt werden (freie Version) (seit Version 1.0.1.1 oder höher).<br>
-Um alle Funktionen ohne Einschränkungen freizuschalten (Vollversion), benötigen du einen Lizenzschlüssel.<br>
+Um alle Funktionen ohne Einschränkungen freizuschalten (Vollversion), wird ein Lizenzschlüssel benötigt.<br>
 Bitte beachte, dass die neueste Versionsnummer für die Aktivierung verwendet wird.
 
 | Funktion                             | Kostenlose Version | Vollversion                      |
 |--------------------------------------|--------------------|----------------------------------|
 | Arduino-Programmer                | ja                 | ja                               |
 | Integrierte Programm-Update-Funktion | nein               | ja                               |
-| Einschränkungen bei Tool-Objekten    | max. 1 (z.B. 1 Signal oder 2 Sensoren) | auf Software auf Hardware begrenzt |
+| Einschränkungen bei Tool-Objekten    | max. 1 (z.B. 1 Signal oder 2 Sensoren) | durch Software auf Hardware begrenzt |
 | Hardware auslesen                    | nein               | ja (sofern von Software auf Hardware unterstützt) |
 | Persönlicher Support-Chat             | ja                 | ja                               |
 
@@ -45,7 +45,7 @@ Die weiteren Schritte sind unten für jedes Betriebssystem erläutert.
 Um die Anwendung auszuführen, ist die .NET Framework 8.0 Runtime erforderlich.
 | Beschreibung                          | Download                                                   |
 |---------------------------------------|----------------------------------------------------------|
-| `x64` `runtime`                      | https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.20-windows-x64-installer |
+| `x64` `runtime`                      | https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.24-windows-x64-installer |
 
 ##### Einrichtung
 Starte **LMCJC UP-Setup.exe** im extrahierten Pfad.

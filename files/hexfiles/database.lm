@@ -12,7 +12,7 @@
 				<version>PROG-2.5 public beta</version>
 				<version>2.5 beta2</version>
 				<version>2.6.0</version>
-				<version>2.6.1</version>
+				<version>2.6.2</version>
 			</hardware>
 			<hardware>
 				<name>ATmega4809</name>
@@ -70,5 +70,5 @@
 			<description_en>Feedback modul via LocoNet at pin 7 and 8</description_en>
 		</LocoNet_Feedback>
 	</projectlist>
-	<BASE_ID>0</BASE_ID>
+	<BASE_ID>1</BASE_ID>
 </database>
