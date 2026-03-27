@@ -83,7 +83,13 @@ MacOS:
 ./macos_start.sh
 ```
 or drag the .sh file into the terminal and press enter.
+
 <br>
+<br>
+
+## Support
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/lmcjc)
+#
 
 ### .NET6 version (Windows OS only) - update support ended
 ---

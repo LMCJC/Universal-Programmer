@@ -85,8 +85,13 @@ MacOS:
 ./macos_start.sh
 ```
 oder ziehe die .sh-Datei in das Terminal und bestätige dann mit der Eingabetaste.
+
+<br>
 <br>
 
+## Projekt unterstützen
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/lmcjc)
+#
 ### .NET6-Version (nur für Windows) - Support eingestellt
 ---
 Es wird nur die neueste .zip-Datei benötigt, diese kann in dem bevorzugten Ordner extrahiert werden.<br>
