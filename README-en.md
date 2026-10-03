@@ -64,7 +64,7 @@ chmod +x debian_start.sh (or via graphical properties menue)
 MacOS:
 ```
 chmod +x macos_start.sh
-./macos_start.sh
+Double-click macos_start.command to launch it. Alternatively in the terminal: ./macos_start.command
 ```
 ***The setup installs the .NET 8.0 runtime and dependencies (administration rights required).***<br>
 ##### Run application
